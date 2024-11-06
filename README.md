@@ -89,8 +89,8 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 
 ## 👥 Autores
 
-- Tu Nombre - mastero101
+- Mastero - github.com/mastero101
 
 ## 📞 Soporte
 
-Para soporte, email ejemplo@tudominio.com o abre un issue en el repositorio.
+Para soporte, email castro.alejandro17@gmail.com o abre un issue en el repositorio.
